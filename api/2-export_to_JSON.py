@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Script Python qui pour un ID d'employé donné renvoie toutes ses tâches à faire et les exporte au format JSON"""
+"""ID d'employé donné renvoie toutes ses tâches à faire et les exporte au format JSON"""
 
 import json
 import requests
