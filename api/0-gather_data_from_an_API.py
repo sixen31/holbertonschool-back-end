@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#ID d'employé donné renvoie toutes ses tâches à faire
+"""ID d'employé donné renvoie toutes ses tâches à faire"""
 
 import requests
 import sys
