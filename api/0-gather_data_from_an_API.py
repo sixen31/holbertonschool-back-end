@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""ID d'employé donné renvoie toutes ses tâches à faire"""
+"""Retrieve and display TODO list progress for a given employee ID."""
 
 import requests
 import sys
