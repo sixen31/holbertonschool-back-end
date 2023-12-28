@@ -12,7 +12,7 @@ if __name__ == "__main__":
 
     url = "https://jsonplaceholder.typicode.com/users/{}/todos"
     user_id = sys.argv[1]
-    
+
     try:
         response = requests.get(url.format(user_id)).json()
         user = requests.get("https://jsonplaceholder.typicode.com/users/{}"
