@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-"""Retrieve and display TODO list progress for a given employee ID."""
 
 import requests
 import sys
